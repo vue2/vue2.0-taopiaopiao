@@ -1,5 +1,7 @@
 # vue2.0与express构建[淘票票](https://h5.m.taobao.com/app/movie/pages/index/index.html?from=def&spm=a1z2r.7661912.h5-movie-list.121&sqm=a1z2r.7661912.1.1&bottomtab=show)页面
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/vue2.0-taopiaopiao.svg)](https://greenkeeper.io/)
+
 ### [react构建淘票票，请点击这里](https://github.com/canfoo/react-taopiaopiao)
 
 ## 描述
